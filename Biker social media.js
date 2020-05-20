@@ -7,7 +7,12 @@ var database = [
 		username: "mrjohnson",
 		password: "123"
 	}
+	{
+		username: "Chris",
+		password: "123"
+	}
 ]; 
+
 
 var bikernewsfeed = [
 	{
