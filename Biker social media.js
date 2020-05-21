@@ -8,9 +8,10 @@ var database = [
 		password: "123"
 	}
 	{
-		username: "Chris",
+		username: "Sam c",
 		password: "123"
 	}
+
 ]; 
 
 
@@ -47,4 +48,6 @@ var userNamePromt = prompt("What\'s' your username?");
 var passwordPromt = prompt("What\'s your password?")
 
 signIn(userNamePromt, passwordPromt);
+
+//key
 
